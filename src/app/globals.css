@@ -1,0 +1,15 @@
+a{
+  text-decoration: none !important;
+  color: white !important;
+}
+.user-section{
+  position: absolute;
+  bottom: 8px;
+}
+ul li:hover{
+ background-color: gainsboro;
+ color: black;
+}
+.col-4{
+  border: 2px solid black;
+}
